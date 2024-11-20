@@ -26,4 +26,3 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC _redist.x86
 - PHPManagerForlIS
 - Rewrite_ amd64_en-US
-- 
